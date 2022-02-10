@@ -2,7 +2,7 @@
 - 👀 I’m interested in HR
 - 🌱 I’m currently learning Human Resources Management and Project Management
 - 💞️ I’m looking to collaborate on Web design and database creation
-- 📫 How to reach me ...
+- 📫 How to reach me MUTASIM7777777@GMAIL.COM
 
 <!---
 mutasim777/mutasim777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
